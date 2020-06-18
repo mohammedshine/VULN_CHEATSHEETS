@@ -5,7 +5,7 @@
 PORT= 9200
 
 - https://target:9200/_cat/indices?v
-- https://target:9200/_all/_search?q=<email> or <key> or <password>
+- https://target:9200/_all/_search?q= {email} or {key} or {password}
 
 ### TOOL
 
