@@ -11,6 +11,7 @@ PORT= 9200
 
 - https://www.npmjs.com/package/elasticdump
 - https://chrome.google.com/webstore/detail/dejavu/lcanobbdndljimodckphgdmllahfcadd/related?hl=en
+- https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm
 
 #### REFERENCE
 1. https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40
